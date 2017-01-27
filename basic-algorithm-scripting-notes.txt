@@ -1,0 +1,136 @@
+MAD LIBS
+https://en.wikipedia.org/wiki/Mad_Libs
+
+******************
+BOOLEAN FUNCTION-will find if expression is true
+******************
+http://www.w3schools.com/js/js_booleans.asp
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean
+
+
+******************
+STRING METHODS
+******************
+String.prototype.toLowerCase()
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toLowerCase
+
+String.prototype.replace()
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replace
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toUpperCase
+
+******************
+ ARRAYS METHODS
+******************
+
+//"PUSH" OR APPEND DATA TO END OF ARRAY//
+var arr = [1,2,3];
+arr.push(4);
+// arr is now [1,2,3,4]
+
+
+//"POP" OFF VALUE OF THE LAST ITEM OF ARRAY THEN CAN STORE ASSIGN TO VARIABLE //
+var oneDown = [1, 4, 6].pop();
+
+//"SHIFT" OFF VALUE OF THE FIRST ITEM OF ARRAY THEN CAN STORE ASSIGN TO VARIABLE //
+var ourArray = ["Stimpson", "J", ["cat"]];
+removedFromOurArray = ourArray.shift();
+
+
+//"UNSHIFT" ADD ELEMENT TO BEGINNING OF ARRAY THEN CAN STORE ASSIGN TO VARIABLE //
+var ourArray = ["Stimpson", "J", "cat"];
+ourArray.shift(); // ourArray now equals ["J", "cat"]
+ourArray.unshift("Happy"); 
+// ourArray now equals ["Happy", "J", "cat"]
+
+
+
+******************
+     THIS-function keyword
+******************
+https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Operators/this
+
+
+******************
+ ARRAYS SORT METHOD
+******************
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort
+
+
+/////////////////////////////
+//Check for Palindromes
+/////////////////////////////
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toLowerCase
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replace
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions
+
+http://www.w3schools.com/jsref/jsref_obj_regexp.asp
+
+/////////////////////////////
+//Find the Longest Word in a String
+/////////////////////////////
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/length
+
+/////////////////////////////
+//Title Case a Sentence
+/////////////////////////////
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toUpperCase
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split
+
+
+
+
+/////////////////////////////
+//Repeat a string repeat a string
+/////////////////////////////
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/repeat
+
+
+/////////////////////////////
+//Truncate a string
+/////////////////////////////
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/slice
+
+
+
+/////////////////////////////
+//Chunky Monkey
+/////////////////////////////
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice
+
+
+/////////////////////////////
+//Slasher Flick
+/////////////////////////////
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice
+
+
+/////////////////////////////
+//Mutations
+/////////////////////////////
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/indexOf
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toLowerCase
+
+
+/////////////////////////////
+//Falsy Bouncer
+/////////////////////////////
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter
